@@ -10,6 +10,7 @@ A desktop app for learning to build on Kissflow: lessons, quick checks, hands-on
 | **Windows** 10 and 11 (64-bit) | [Kissflow-Academy-windows-x64-setup.exe](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-windows-x64-setup.exe) | Installs for the current user |
 | **Linux** (x86_64) | [Kissflow-Academy-linux-x86_64.AppImage](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-x86_64.AppImage) | Runs on most distributions; updates itself |
 | **Linux** (Debian, Ubuntu) | [Kissflow-Academy-linux-amd64.deb](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-amd64.deb) | Installs system-wide; does not update itself |
+| **Android** 7 and later | [Kissflow-Academy-android.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android.apk) | Phones and tablets; does not update itself |
 
 Every link always points at the newest version. Older versions and release notes are on the [Releases](https://github.com/abhiram-kissflow/kf-academy-releases/releases) page.
 
@@ -38,13 +39,17 @@ sudo apt install ./Kissflow-Academy-linux-amd64.deb
 
 The `.deb` does not update itself. To get a new version, download and install the new `.deb`, or use the AppImage instead.
 
+**Android.** Download the `.apk` on your phone and open it. Android asks you to allow installs from your browser or file manager the first time: turn on **Allow from this source**, go back, and tap **Install**. Play Protect may warn that the app is from an unknown developer; tap **Install anyway**.
+
+On Android, coaching sessions keep the course and Kiko in the app, and **Kissflow ↗** in the session rail opens your training account in the browser. Switch between the two, or use split screen on a tablet. To update, install the newer `.apk` over the old one; your progress is kept.
+
 ## Updates
 
 The macOS, Windows and AppImage versions check for updates when they start and every 30 minutes. When one is available, the button in the app's header says **Update to x.y.z**: click it, then **Restart to update**. Updates are cryptographically signed and verified before they install.
 
 ## Your data
 
-Your progress, answers and chats stay on your computer. Nothing is sent to Kissflow or to the course authors. The only network traffic is to the AI provider you choose in Settings, your own Kissflow training tenant, and this page for updates.
+Your progress, answers and chats stay on your computer or phone. Nothing is sent to Kissflow or to the course authors. The only network traffic is to the AI provider you choose in Settings, your own Kissflow training tenant, and this page for updates.
 
 ## About this repository
 
