@@ -10,7 +10,10 @@ A desktop app for learning to build on Kissflow: lessons, quick checks, hands-on
 | **Windows** 10 and 11 (64-bit) | [Kissflow-Academy-windows-x64-setup.exe](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-windows-x64-setup.exe) | Installs for the current user |
 | **Linux** (x86_64) | [Kissflow-Academy-linux-x86_64.AppImage](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-x86_64.AppImage) | Runs on most distributions; updates itself |
 | **Linux** (Debian, Ubuntu) | [Kissflow-Academy-linux-amd64.deb](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-amd64.deb) | Installs system-wide; does not update itself |
-| **Android** 7 and later | [Kissflow-Academy-android.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android.apk) | Phones and tablets; does not update itself |
+| **Android** 7 and later | [Kissflow-Academy-android-arm64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-arm64.apk) | Almost every phone and tablet from the last decade (25 MB) |
+| **Android**, older 32-bit phones | [Kissflow-Academy-android-armv7.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-armv7.apk) | If the one above says "App not installed" (19 MB) |
+| **Android**, Chromebooks and emulators | [Kissflow-Academy-android-x86_64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-x86_64.apk) | Intel and AMD devices (24 MB) |
+| **Android**, not sure | [Kissflow-Academy-android.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android.apk) | Works on every Android device, bigger download (64 MB) |
 
 Every link always points at the newest version. Older versions and release notes are on the [Releases](https://github.com/abhiram-kissflow/kf-academy-releases/releases) page.
 
@@ -41,7 +44,7 @@ The `.deb` does not update itself. To get a new version, download and install th
 
 **Android.** Download the `.apk` on your phone and open it. Android asks you to allow installs from your browser or file manager the first time: turn on **Allow from this source**, go back, and tap **Install**. Play Protect may warn that the app is from an unknown developer; tap **Install anyway**.
 
-On Android, coaching sessions keep the course and Kiko in the app, and **Kissflow ↗** in the session rail opens your training account in the browser. Switch between the two, or use split screen on a tablet. To update, install the newer `.apk` over the old one; your progress is kept.
+On Android, coaching sessions keep the course and Kiko in the app, and **Kissflow ↗** in the session rail opens your training account in the browser. Switch between the two, or use split screen on a tablet. Android versions do not update themselves. To update, install the newer `.apk` over the old one; your progress is kept. All four Android files are the same app, so you can switch between them the same way.
 
 ## Updates
 
