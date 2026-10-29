@@ -1,6 +1,6 @@
 # Kissflow Academy
 
-A desktop app for learning to build on Kissflow: lessons, quick checks, hands-on exercises in your own training tenant with a coach beside you, a final assessment and a certificate.
+An app for learning Kissflow, on macOS, Windows, Linux and Android. Three courses: **Run your account**, **Build your first app**, and **Consultant Onboarding** (opens with the username and access code from your Kissflow contact). Each has video lessons, quick checks, hands-on exercises in your own training tenant with Kiko as your coach, a final assessment and a certificate.
 
 ## Download
 
@@ -10,12 +10,12 @@ A desktop app for learning to build on Kissflow: lessons, quick checks, hands-on
 | **Windows** 10 and 11 (64-bit) | [Kissflow-Academy-windows-x64-setup.exe](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-windows-x64-setup.exe) | Installs for the current user |
 | **Linux** (x86_64) | [Kissflow-Academy-linux-x86_64.AppImage](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-x86_64.AppImage) | Runs on most distributions; updates itself |
 | **Linux** (Debian, Ubuntu) | [Kissflow-Academy-linux-amd64.deb](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-linux-amd64.deb) | Installs system-wide; does not update itself |
-| **Android** 7 and later | [Kissflow-Academy-android-arm64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-arm64.apk) | Almost every phone and tablet from the last decade (25 MB) |
-| **Android**, older 32-bit phones | [Kissflow-Academy-android-armv7.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-armv7.apk) | If the one above says "App not installed" (19 MB) |
-| **Android**, Chromebooks and emulators | [Kissflow-Academy-android-x86_64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-x86_64.apk) | Intel and AMD devices (24 MB) |
-| **Android**, not sure | [Kissflow-Academy-android.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android.apk) | Works on every Android device, bigger download (64 MB) |
+| **Android** 7 and later | [Kissflow-Academy-android-arm64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-arm64.apk) | Almost every phone and tablet from the last decade (330 MB) |
+| **Android**, older 32-bit phones | [Kissflow-Academy-android-armv7.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-armv7.apk) | If the one above says "App not installed" (324 MB) |
+| **Android**, Chromebooks and emulators | [Kissflow-Academy-android-x86_64.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android-x86_64.apk) | Intel and AMD devices (329 MB) |
+| **Android**, not sure | [Kissflow-Academy-android.apk](https://github.com/abhiram-kissflow/kf-academy-releases/releases/latest/download/Kissflow-Academy-android.apk) | Works on every Android device, biggest download (980 MB) |
 
-Every link always points at the newest version. Older versions and release notes are on the [Releases](https://github.com/abhiram-kissflow/kf-academy-releases/releases) page.
+The Android files include every course video, so lessons play offline; that is why they are large. Every link always points at the newest version. Older versions and release notes are on the [Releases](https://github.com/abhiram-kissflow/kf-academy-releases/releases) page.
 
 ## Install
 
